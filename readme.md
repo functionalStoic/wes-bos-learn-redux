@@ -36,3 +36,4 @@ Pull requests that fix dependencies between the videos and this repo are welcome
 **A:** Cobalt2 and Operator Mono. I wrote a bit of info here → <http://wesbos.com/uses>
 
 
+# wes-bos-learn-redux
