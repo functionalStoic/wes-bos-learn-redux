@@ -46,7 +46,7 @@
     "rimraf": "2.6.3",
     "style-loader": "0.23.1",
     "stylus": "0.54.5",
-    "stylus-loader": "2.5.1",
+    "stylus-loader": "3.0.2",
     "webpack": "4.35.2",
     "webpack-dev-middleware": "3.7.0",
     "webpack-hot-middleware": "2.25.0"
