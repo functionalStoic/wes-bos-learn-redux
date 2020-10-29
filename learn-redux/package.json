@@ -44,7 +44,7 @@
     "redbox-react": "1.6.0",
     "redux": "4.0.4",
     "rimraf": "3.0.0",
-    "style-loader": "1.0.0",
+    "style-loader": "2.0.0",
     "stylus": "0.54.7",
     "stylus-loader": "3.0.2",
     "webpack": "4.39.3",
