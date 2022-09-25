@@ -45,7 +45,7 @@
     "redux": "4.0.4",
     "rimraf": "3.0.0",
     "style-loader": "1.0.0",
-    "stylus": "0.54.7",
+    "stylus": "0.59.0",
     "stylus-loader": "3.0.2",
     "webpack": "4.39.3",
     "webpack-dev-middleware": "3.7.0",
