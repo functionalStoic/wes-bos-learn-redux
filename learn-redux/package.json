@@ -31,7 +31,7 @@
     "eslint": "6.2.2",
     "eslint-plugin-babel": "5.3.0",
     "eslint-plugin-react": "7.14.3",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "raven-js": "3.27.2",
     "react": "16.9.0",
     "react-addons-css-transition-group": "15.6.2",
